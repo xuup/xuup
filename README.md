@@ -59,6 +59,8 @@ Hi there, I'm **Xuup**, a **Software Engineering* 🚀 from Beijing.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-![Anurag's GitHub stats](https://github-readme-stats-self-phi-11.vercel.app/api?username=xuup&show_icons=true&theme=tokyonight)
+<br>
+<br>
 
+<img src="https://github-readme-stats-self-phi-11.vercel.app/api?username=xuup&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" alt="Xuup's GitHub Stats">
 
