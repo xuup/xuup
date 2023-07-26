@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 title="hehehe"> Hey 👋, I'm Zamran!</h3>
+<h3 title="hehehe"> Hey 👋, I'm Xuup!</h3>
 
 <a href="https://www.linkedin.com/in/zamranxd/">
   <img align="left" alt="Xuup's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -62,5 +62,5 @@ Hi there, I'm **Xuup**, a **Software Engineering* 🚀 from Beijing.
 <br>
 <br>
 
-<img src="https://github-readme-stats-self-phi-11.vercel.app/api?username=xuup&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" alt="Xuup's GitHub Stats">
+<img align="left" src="https://github-readme-stats-self-phi-11.vercel.app/api?username=xuup&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" alt="Xuup's GitHub Stats">
 
